@@ -1,0 +1,5 @@
+---
+:concurrency: 2
+:queues:
+  - ANAC_website_development_default
+  - ANAC_website_development_mailers
